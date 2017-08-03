@@ -27,7 +27,7 @@ xcuserdata/
 *.ipa
 *.dSYM.zip
 *.dSYM
- Pods/
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
@@ -38,7 +38,8 @@ playground.xcworkspace
 # Packages/
 # Package.pins
 .build/
-
+ .Pods/
+  Pods/
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
